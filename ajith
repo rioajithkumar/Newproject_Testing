@@ -1,0 +1,33 @@
+Company Name: ABC Technologies
+
+Environment Details:
+Application Name: Payment Gateway
+Environment: Production
+Server Name: app-server-01
+Operating System: Ubuntu 24.04 LTS
+
+Application Services:
+- Nginx
+- Node.js
+- PM2
+- MySQL
+
+Deployment Information:
+Version: v2.5.1
+Deployment Date: 15-Jun-2026
+Deployed By: DevOps Team
+
+Health Check:
+Application Status: Running
+Database Status: Connected
+API Status: Healthy
+SSL Status: Active
+
+Notes:
+- Daily backup scheduled at 02:00 AM.
+- Log rotation enabled.
+- Monitoring configured through Grafana and Prometheus.
+
+Contact:
+Email: support@abctech.com
+Phone: +91-9876543210
